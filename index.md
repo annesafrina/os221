@@ -1,6 +1,4 @@
-{{ site.author }}
-
-[PAGE]({{ site.baseurl }}/) --- [LOG]({{ site.myloglink }}) --- [REPO]({{ site.githublink }})
+[HOME]({{ site.baseurl }}/) --- [MYLOG]({{ site.myloglink }}) --- [REPOSITORY]({{ site.githublink }})
 
 Hi, everyone! Welcome to {{ site.title }} . My name is {{ site.author }}.
 
