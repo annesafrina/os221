@@ -1,4 +1,4 @@
-By {{ site.author }}
+By {{author}}
 
 [PAGE]({{ site.baseurl }}/) --- [LOG]({{ site.myloglink }}) --- [REPO]({{ site.githublink }})
 
