@@ -1,3 +1,5 @@
+By {{ site.author }}
+
 [HOME]({{ site.baseurl }}/) --- [LOG]({{ site.myloglink }}) --- [GITHUB]({{ site.githublink }})
 
 Hi, everyone! Welcome to {{ site.title }} . My name is {{ site.author }}.
