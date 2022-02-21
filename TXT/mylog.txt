@@ -8,7 +8,9 @@ ZCZC W00 30 L04 GitHub Pages related
 ZCZC W00 40 L32 Youtube: study,etc
 ZCZC W00 50 L10 Assignment #00
 ZCZC W00 60 L70 Studying for other courses
-ZCZC W00 10 L73 Gaming
-ZCZC W00 10 L82 Reading Book
-ZCZC W00 20 L86 House Chore
-ZCZC W00 30 L80 Watching: Movie, Youtube, TV, etc
+ZCZC W01 30 L05 Quiz related
+ZCZC W01 180 L01 SCELE/Discord related
+ZCZC W01 45 L03 GitHub related
+ZCZC W01 60 L70 Studying for other courses
+ZCZC W01 60 L11 Assignment #01
+ZCZC W01 30 L04 GitHub Pages related
