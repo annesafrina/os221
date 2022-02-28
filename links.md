@@ -15,31 +15,31 @@ permalink: LINKS/
 1. [Operating System Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
 YouTube playlist regarding Operating System by NESO Academy.
 
-2. [Two](https://simple.wikipedia.org/wiki/Operating_system)<br>
+2. [Operating System Definition](https://simple.wikipedia.org/wiki/Operating_system)<br>
 Simple definition of operating system by Wikipedia.
 
-3. [Three](https://youtu.be/wBp0Rb-ZJak)<br>
+3. [Linux Tutorial For Beginners](https://youtu.be/wBp0Rb-ZJak)<br>
 Seven hours worth of Linux tutorial for beginners.
 
-4. [Four](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)<br>
+4. [OS Types](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)<br>
 Types of operating systems explained.
 
-5. [Five](https://youtu.be/9GDX-IyZ_C8)<br>
+5. [Basic OS Concepts](https://youtu.be/9GDX-IyZ_C8)<br>
 General concepts of operating systems.
 
-6. [Six](https://youtu.be/GtovwKDemnI)<br>
+6. [Shell Scripting Tutorial](https://youtu.be/GtovwKDemnI)<br>
 Shell Scripting tutorial for beginners.
 
-7. [Seven](https://youtu.be/fQbTeNX1mvM)<br>
+7. [All About GIT](https://youtu.be/fQbTeNX1mvM)<br>
 Basic Git tutorial for beginners (in Indonesian).
 
-8. [Eight](https://youtu.be/U_P23SqJaDc)<br>
+8. [Introduction to Cyber Security](https://youtu.be/U_P23SqJaDc)<br>
 Cyber security introduction video.
 
-9. [Nine](https://www.lifewire.com/operating-systems-2625912)<br>
+9. [Examples](https://www.lifewire.com/operating-systems-2625912)<br>
 Operating system definition and examples.
 
-10. [Ten](https://youtu.be/yxtvwVUuIqk)<br>
+10. [Pengenalan Terhadapa Sistem Operasi](https://youtu.be/yxtvwVUuIqk)<br>
 Introduction to operating systems (in Indonesian).
 
 <br>
