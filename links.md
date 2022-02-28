@@ -12,7 +12,7 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
+1. [Operating System Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
 YouTube playlist regarding Operating System by NESO Academy.
 
 2. [Two](https://simple.wikipedia.org/wiki/Operating_system)<br>
