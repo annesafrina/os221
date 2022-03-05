@@ -12,6 +12,7 @@ permalink: LINKS/
 
 # LINKS
 
+WEEK 1
 1. [Operating System Playlist](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O)<br>
 YouTube playlist regarding Operating System by NESO Academy.
 
@@ -21,6 +22,7 @@ Simple definition of operating system by Wikipedia.
 3. [Linux Tutorial For Beginners](https://youtu.be/wBp0Rb-ZJak)<br>
 Seven hours worth of Linux tutorial for beginners.
 
+WEEK 2
 4. [OS Types](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)<br>
 Types of operating systems explained.
 
@@ -30,6 +32,7 @@ General concepts of operating systems.
 6. [Shell Scripting Tutorial](https://youtu.be/GtovwKDemnI)<br>
 Shell Scripting tutorial for beginners.
 
+WEEK 3
 7. [All About GIT](https://youtu.be/fQbTeNX1mvM)<br>
 Basic Git tutorial for beginners (in Indonesian).
 
