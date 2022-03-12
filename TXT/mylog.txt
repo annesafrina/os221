@@ -29,4 +29,11 @@ ZCZC W03 200 L02 ZOOM meetings related
 ZCZC W03 10 L04 GitHub Pages related
 ZCZC W03 40 L23 Linux CLI including tar, etc.
 ZCZC W03 200 L01 SCELE/Discord related
+ZCZC W04 200 L02 ZOOM meetings related
+ZCZC W04 60 L14 Assignment #04
+ZCZC W04 45 L03 GitHub related
+ZCZC W04 60 L23 Linux CLI including tar, etc.
+ZCZC W04 15 L04 GitHub Pages related
+ZCZC W04 180 L01 SCELE/Discord related
+ZCZC W04 15 Quiz related
 
