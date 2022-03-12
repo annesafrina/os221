@@ -48,6 +48,14 @@ Operating system definition and examples.
 10. [Pengenalan Terhadapa Sistem Operasi](https://youtu.be/yxtvwVUuIqk)<br>
 Introduction to operating systems (in Indonesian).
 
+WEEK 4
+
+11. [Linux Programming Interface](https://youtu.be/6OSeJFo6GOc)<br>
+A six hours worth of course regarding Linux Programming Interface.
+
+12. [Linux/Bash On Windows 10](https://youtu.be/xzgwDbe7foQ)<br>
+How to Run Linux/Bash on Windows 10 Using the Built-In Windows Subsystem for Linux.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
