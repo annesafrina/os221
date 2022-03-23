@@ -56,6 +56,14 @@ A six hours worth of course regarding Linux Programming Interface.
 12. [Linux/Bash On Windows 10](https://youtu.be/xzgwDbe7foQ)<br>
 How to Run Linux/Bash on Windows 10 Using the Built-In Windows Subsystem for Linux.
 
+WEEK 5
+
+13. [List of Coursera courses related to cyber security](https://www.coursera.org/courses?query=cybersecurity)<br>
+Many options of free cyber security courses offered by Coursera.
+
+14. [Operating System Course by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)<br>
+A course offered by Udacity relating to operating system.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
