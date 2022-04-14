@@ -64,6 +64,14 @@ Many options of free cyber security courses offered by Coursera.
 14. [Operating System Course by Udacity](https://www.udacity.com/course/introduction-to-operating-systems--ud923)<br>
 A course offered by Udacity relating to operating system.
 
+WEEK 6
+
+15. [Why Work in Cyber Security | 7 Reasons to Choose a Career in Cyber Security 2022](https://youtu.be/lIJj9NHpxHY)<br>
+A video explaining why a career in cyber security is a good choice.
+
+16. [The fork() function in C](https://youtu.be/cex9XrZCU14)<br>
+A brief explanation regarding the fork() function in C.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
