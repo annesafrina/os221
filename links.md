@@ -72,6 +72,15 @@ A video explaining why a career in cyber security is a good choice.
 16. [The fork() function in C](https://youtu.be/cex9XrZCU14)<br>
 A brief explanation regarding the fork() function in C.
 
+
+WEEK 7
+
+17. [How To Use The scp Command to Copy a File From Remote to Local (and vice versa)](https://youtu.be/q2OHvlr081s)<br>
+A tutorial on how to copy a file using scp command.
+
+18. [How to Use rsync to Synchronize Files Between Servers: Linux Server Training 101](https://youtu.be/s4US4tRv70I)<br>
+A brief explanation about Synchronization in Linux.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
