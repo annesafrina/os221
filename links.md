@@ -81,6 +81,14 @@ A tutorial on how to copy a file using scp command.
 18. [How to Use rsync to Synchronize Files Between Servers: Linux Server Training 101](https://youtu.be/s4US4tRv70I)<br>
 A brief explanation about Synchronization in Linux.
 
+WEEK 8
+
+19. [How to build Linux From Scratch (LFS) 10.1](https://youtube.com/playlist?list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL)<br>
+A YouTube playlist containing tutorial on how to build Linux from scratch.
+
+20. [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)<br>
+A website consisting a detailed explanation on how to build Linux from scratch.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
