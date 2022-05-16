@@ -82,4 +82,17 @@ ZCZC W08 30 L05 Quiz related
 ZCZC W08 100 L02 ZOOM meetings related
 ZCZC W08 45 L01 SCELE/Discord related
 ZCZC W08 10 L04 GitHub Pages related
+ZCZC W09 30 L11 Assignment #01: Read chapter 11
+ZCZC W09 45 L12 Assignment #02: Try previous final term problems
+ZCZC W09 10 L13 Assignment #03: Update my Debian Guest
+ZCZC W09 45 L14 Assignment #04: Try demos
+ZCZC W09 5 L15 Assignment #05: Script download
+ZCZC W09 75 L16 Assignment #06: Linux from scratch
+ZCZC W09 30 L17 Assignment #07: Edit TXT folder
+ZCZC W09 15 L18 Assignment #08: Review peer links
+ZCZC W09 20 L05 Quiz related
+ZCZC W09 200 L02 ZOOM meetings related
+ZCZC W09 30 L01 SCELE/Discord related
+ZCZC W09 15 L04 GitHub Pages related
+ZCZC W09 5 L03 GitHub related 
  

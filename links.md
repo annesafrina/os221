@@ -89,6 +89,14 @@ A YouTube playlist containing tutorial on how to build Linux from scratch.
 20. [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org/)<br>
 A website consisting a detailed explanation on how to build Linux from scratch.
 
+WEEK 9
+
+21. [The differences between preemptive and nonpreemptive kernel](https://pediaa.com/what-is-the-difference-between-preemptive-and-nonpreemptive-kernel/#:~:text=Preemptive%20Kernel%20is%20a%20kernel,some%20other%20process%20to%20execute.)<br>
+An article explaining the differences between preemptive and nonpreemptive kernel.
+
+22. [FCFS Scheduling Algorithm: What is, Example Program](https://www.guru99.com/fcfs-scheduling.html)<br>
+A brief explanation about First-Come-First-Serve Scheduling Algorithm.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
